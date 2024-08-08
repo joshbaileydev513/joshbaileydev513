@@ -1,7 +1,7 @@
 Hi! My name is Joshua Bailey
 =====================================================================================================================================
 
-I am a FullStack Developer (MERN) with a passion for creating visually appealing and user-friendly websites and applications. My goal is to use my skills and knowledge to create meaningful and impactful digital experiences for users. In my free time, I enjoy staying up to date with the latest technology and trends in the industry and participating in coding challenges. I am excited to continue learning and growing as a developer, and I am eager to start applying my skills to real-world projects!
+I am a FullStack Developer (MERN) with a passion for creating visually appealing and user-friendly websites & applications. My goal is to use my knowledge to create meaningful and impactful digital experiences for users. As an avid learner I enjoy staying up to date with the latest technology/trends in the industry by in participating webinars, coding challenges, and watching videos all to continue growing as a developer. I am eager to start applying my skills to your team or project!
 
 * I'm based in Charlotte, NC but open to relocation for the right opportunity! 🌍
 * I’m currently learning 🌱
