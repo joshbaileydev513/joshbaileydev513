@@ -10,7 +10,7 @@ I am a FullStack Developer (MERN) with a passion for creating visually appealing
   - GraphQL 
   - Creation of Discord Bots 🤖
 
-* You can contact me at [jbailey2124@gmail.com](mailto:jbailey2124@gmail.com) ✉️
+* You can contact me at [jbailey2124@gmail.com](mailto:jbailey2124@gmail.com) or view my Portfolio [here](joshuabailey.info) ✉️
 
 
 <p align="center">
