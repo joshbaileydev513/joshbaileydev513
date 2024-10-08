@@ -5,11 +5,11 @@ I am a FullStack Developer (MERN) with a passion for creating visually appealing
 
 * I'm based in Charlotte, NC but open to relocation for the right opportunity! 🌍
 * I’m currently learning 🌱
-  - Angular
-  - Typescript
-  - GraphQL
-  - Python
-  - AWS
+  - Angular/Typescript
+  - Python 
+  - GraphQL 
+  - Creation of Discord Bots 🤖
+
 * You can contact me at [jbailey2124@gmail.com](mailto:jbailey2124@gmail.com) ✉️
 
 
