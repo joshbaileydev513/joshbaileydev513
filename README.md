@@ -5,11 +5,11 @@ I am a FullStack Developer (MERN) with a passion for creating visually appealing
 
 * I'm based in Charlotte, NC but open to relocation for the right opportunity! 🌍
 * I’m currently learning 🌱
-  (-) Angular/Typescript
-  (-) Python 
-  (-) GraphQL 
-  (-) Creation of Discord Bots 🤖
-  (-) Automated Workflows for generating and uploading relaxing soundscapes with dynamic visuals to YouTube combining:
+  ( - ) Angular/Typescript
+  ( - ) Python 
+  ( - ) GraphQL 
+  ( - ) Creation of Discord Bots 🤖
+  ( - ) Automated Workflows for generating and uploading relaxing soundscapes with dynamic visuals to YouTube combining:
       - Serene Audio
       - Interactive Video Elements, and
       - Seamless AI-powered metadata creation 
