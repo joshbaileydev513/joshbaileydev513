@@ -12,7 +12,6 @@ I am Developer with a passion for creating visually appealing and user-friendly 
   - Automated Workflows for generating and uploading relaxing soundscapes with dynamic visuals to YouTube combining:
     - Serene Audio
     - Interactive Video Elements
-    - Seamless AI-powered metadata creation 
 
 * You can contact me at [jbailey2124@gmail.com](mailto:jbailey2124@gmail.com) or view my Portfolio [Here!](https://joshuabailey.info) ✉️
 
