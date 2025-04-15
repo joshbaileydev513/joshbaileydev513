@@ -5,7 +5,8 @@ I am a Software Developer with a passion for creating visually appealing and use
 
 * I'm based in Charlotte, NC but open to relocation for the right opportunity! 🌍
 * I’m currently learning 🌱
-  - Angular/Typescript
+  - Angular
+  - React
   - Python 
   - GraphQL 
   - Creation of Discord Bots 🤖
