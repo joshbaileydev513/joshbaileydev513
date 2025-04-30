@@ -7,7 +7,8 @@ I am a Software Developer with a passion for creating visually appealing and use
 * I’m currently learning 🌱
   - Angular
   - React
-  - Python 
+  - Python
+  - Java
   - GraphQL 
   - Creation of Discord Bots 🤖
   - Automated Workflows for generating and uploading relaxing soundscapes with dynamic visuals to YouTube combining:
